@@ -1,3 +1,3 @@
 # Java
 
-Java Practicals
+Java - Practicals 
